@@ -265,11 +265,23 @@ performance-efficiency trade-off at higher pruning rates.
 If you find our work useful in your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{park2026dplora,
-  title={DPLoRA: A Dual-Pruning Framework based on ILP Optimization and Progressive Pruning for Parameter-Efficient LoRA Fine-Tuning},
-  author={Park, Changjun and Yoon, Sejong and Kim, Jaekwang},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
-  year={2026}
+@inproceedings{park-etal-2026-dplora,
+    title = "{DPL}o{RA}: A Dual-Pruning Framework based on {ILP} Optimization and Progressive Pruning for Parameter-Efficient {L}o{RA} Fine-Tuning",
+    author = "Park, Changjun  and
+      Yoon, Sejong  and
+      Kim, Jaekwang",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1693/",
+    pages = "33892--33908",
+    ISBN = "979-8-89176-395-1"
 }
 ```
 
